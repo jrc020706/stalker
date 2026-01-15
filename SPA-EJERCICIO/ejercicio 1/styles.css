@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+nav a {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    background:  #898383;
+    color:aliceblue;
+}
